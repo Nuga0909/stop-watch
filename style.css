@@ -1,0 +1,26 @@
+body {
+    background: #918d86;
+    color: white;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    height: 100%;
+}
+
+.wrapper {
+    border: 5px double rgb(7, 7, 71);
+    margin: 20px 40px;
+    padding: 20px;
+    text-align: center;
+}
+
+p {
+    font-size: xx-large;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    color: white; 
+    background-color: #918d86;
+    border-color: white;
+    border-radius: 5px;
+}
